@@ -1,0 +1,40 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:"微软雅黑";
+}
+.kuang{
+	width:1180px;
+	height:450px;
+	border:1px solid black;
+	background:#ccc;
+	border-radius:8px;
+	margin:0 auto;
+	margin-top: 50px;
+}
+.xiao{
+	width: 80px;
+	height: 80px;
+	border:1px solid black;
+	background:black;
+	border-radius:4px;
+	float:left;
+	margin-left:8px;
+	margin-top:25px;
+	box-shadow:0 0 10px black;
+	color:white;
+	font-size: 28px;
+	text-align:center;
+	line-height:70px;
+}
+.jishiqi{
+	width: 80px;
+	height:50px;
+	border:1px solid black;
+	margin:0 auto;
+	color:black;
+	background: #ccc;
+	text-align: center;
+	line-height: 50px;
+	margin-top: 10px;
+}
